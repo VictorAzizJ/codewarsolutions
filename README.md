@@ -1,6 +1,6 @@
 # codewarsolutions
 Solutions for Code Wars
-Enjoy my Solutions tackling beginner level JavaScript while buidling myself and my onggoing projects up. 
+Enjoy my Solutions tackling beginner level JavaScript while buidling myself and my ongoing projects up. 
 Feel Free to comment and encourage .
 
 
